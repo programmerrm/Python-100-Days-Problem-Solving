@@ -10,16 +10,12 @@
 
 # 📅 ১ম ৩০ দিন (Day 1–30): Easy Problems (Basic Logic, Syntax, Loops, Conditions)
 
-# 🔹 Topics:
+Topics:
 
 Number problems (even, odd, prime, factorial, sum)
-
 String problems (reverse, palindrome, count vowels)
-
 List problems (max, min, sum, unique)
-
 Simple recursion
-
 Dictionary & set usage
 
 # 📝 Weekly Breakdown:
@@ -32,18 +28,13 @@ Week	Focus	Examples
 
 # 📅 দিন ৩১–৬০: Medium Problems (Nested logic, Recursion, Searching, Sorting, DSA)
 
-# 🔹 Topics:
+Topics:
 
 Binary Search
-
 Sorting algorithms
-
 Recursion with backtracking
-
 Stack/Queue implementation
-
 Matrix problems
-
 Hashing techniques
 
 # 📝 Weekly Breakdown:
@@ -57,16 +48,12 @@ Week	Focus	Examples
 
 # 📅 দিন ৬১–৯০: Hard Problems (Dynamic Programming, Graphs, Trees, Greedy)
 
-# 🔹 Topics:
+Topics:
 
 Dynamic Programming
-
 Tree traversal & construction
-
 Graph traversal (BFS, DFS)
-
 Greedy algorithms
-
 Sliding window, Two pointers
 
 # 📝 Weekly Breakdown:
@@ -80,51 +67,36 @@ Week	Focus	Examples
 
 # 📅 দিন ৯১–১০০: Real-World Project Problem Solving
 
-# 🎯 Goal:
+🎯 Goal:
 
-# কিভাবে প্রজেক্টের ভিতরের ছোট ছোট problem গুলো solve করবে সেই দক্ষতা তৈরি করা।
+কিভাবে প্রজেক্টের ভিতরের ছোট ছোট problem গুলো solve করবে সেই দক্ষতা তৈরি করা।
 
-# 🔹 Topics:
+Topics:
 
 API usage
-
 File handling
-
 Real user input validation
-
 Pagination, Filtering
-
 CRUD logic without frameworks
-
 Logic building in mini tools
 
 # 💡 Mini Project Ideas:
 
 To-Do app backend (in-memory)
-
 Image metadata extractor
-
 CLI calculator or notes app
-
 CSV → JSON converter
-
 URL shortener (basic logic)
-
 Terminal-based quiz app
-
-
-
-
 
 # ✅ 📅 Day 1–10 Easy Python Problem Solving List
 
-# 🔰 Structure:
+Focus: 
 
-# ১০ দিন, প্রতিদিন ৫টা করে problem
-
-# Difficulty: Easy
-
-# Focus: Loops, Conditionals, Functions, String, List, Number logic
+Loops, 
+Conditionals, 
+Functions, 
+String, List, Number logic
 
 # 📅 Day 1: Number Basics
 
@@ -208,17 +180,13 @@ Replace all spaces with hyphens in a sentence
 
 # ✅ 📅 Day 11–20: Easy Level Problem Solving Plan (Python)
 
-# Focus:
+Focus:
 
-# Logic + Practice
-
-# More functions
-
-# Nested loops
-
-# Real-world simulation problems
-
-# Small algorithmic thinking
+Logic + Practice
+More functions
+Nested loops
+Real-world simulation problems
+Small algorithmic thinking
 
 # 📅 Day 11: Number Series & Math Patterns
 
@@ -300,7 +268,7 @@ Check if two strings are rotations of each other
 Return True if two lists have any common item
 Simple contact book using dictionary
 
-✅ 📅 Day 21–30: Medium-Level Problem Solving Plan (Python)
+# ✅ 📅 Day 21–30: Medium-Level Problem Solving Plan (Python)
 
 Focus:
 Algorithmic Thinking শুরু
@@ -308,7 +276,7 @@ Recursion, Searching, Sorting
 Logic-heavy String & List problems
 Slightly real-world logic
 
-📅 Day 21: Recursion Basics
+# 📅 Day 21: Recursion Basics
 
 Write a recursive function to calculate factorial
 Recursive sum of natural numbers
@@ -316,7 +284,7 @@ Recursive function to calculate nth Fibonacci number
 Reverse a string using recursion
 Find GCD of two numbers using recursion
 
-📅 Day 22: Searching Algorithms
+# 📅 Day 22: Searching Algorithms
 
 Implement linear search
 Implement binary search (sorted list)
@@ -324,7 +292,7 @@ Count number of occurrences using binary search
 Find index of first occurrence of an element
 Search for an element in a rotated sorted list
 
-📅 Day 23: Sorting Algorithms
+# 📅 Day 23: Sorting Algorithms
 
 Implement Bubble Sort
 Implement Selection Sort
@@ -332,7 +300,7 @@ Implement Insertion Sort
 Sort dictionary by value
 Sort list of tuples by second element
 
-📅 Day 24: Advanced String Problems
+# 📅 Day 24: Advanced String Problems
 
 Find longest word in a sentence
 Remove duplicate characters from string
@@ -340,7 +308,7 @@ Return first non-repeating character
 Check if a string has all unique characters
 Check if two strings are isomorphic
 
-📅 Day 25: Medium List/Array Problems
+# 📅 Day 25: Medium List/Array Problems
 
 Rotate a list to the right by k steps
 Find sublist with given sum
@@ -348,7 +316,7 @@ Find the majority element in a list
 Find second most frequent element
 Find peak element in a list
 
-📅 Day 26: Matrix & 2D List
+# 📅 Day 26: Matrix & 2D List
 
 Transpose a matrix
 Rotate matrix 90 degrees
@@ -356,7 +324,7 @@ Find sum of each row and column
 Search element in 2D sorted matrix
 Check if matrix is symmetric
 
-📅 Day 27: Sliding Window Technique
+# 📅 Day 27: Sliding Window Technique
 
 Find max sum subarray of size k
 Longest substring without repeating characters
@@ -364,7 +332,7 @@ Minimum size subarray sum
 Count occurrences of anagram substrings
 Max product of subarray
 
-📅 Day 28: Set & Hashing (Dict/Set based problems)
+# 📅 Day 28: Set & Hashing (Dict/Set based problems)
 
 Detect duplicates using set
 Find intersection of two lists
@@ -372,7 +340,7 @@ Find missing number in 1 to n
 Find first repeating element
 Count number of pairs with given sum
 
-📅 Day 29: Mini Challenges
+# 📅 Day 29: Mini Challenges
 
 Encode string with run-length encoding
 Implement simple calculator (add, sub, mul, div)
@@ -380,7 +348,7 @@ Count how many passwords in a list are strong
 Find longest palindrome in a string
 Convert Excel column title to number (A → 1, AB → 28)
 
-📅 Day 30: Real-World Inspired Problems
+# 📅 Day 30: Real-World Inspired Problems
 
 Bank ATM: check balance, withdraw, deposit
 Shopping cart logic with price & quantity
