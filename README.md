@@ -101,7 +101,7 @@ String, List, Number logic
 # 📅 Day 1: Number Basics
 
 1. Check if a number is even or odd -> DONE
-2. Find the maximum between two numbers
+2. Find the maximum between two numbers -> DONE
 3. Check if a number is positive, negative or zero
 4. Calculate the factorial of a number
 5. Find the sum of first n natural numbers
