@@ -103,8 +103,8 @@ String, List, Number logic
 1. Check if a number is even or odd -> DONE
 2. Find the maximum between two numbers -> DONE
 3. Check if a number is positive, negative or zero -> DONE
-4. Calculate the factorial of a number
-5. Find the sum of first n natural numbers
+4. Calculate the factorial of a number -> DONE
+5. Find the sum of first n natural numbers -> DONE
 
 # 📅 Day 2: Prime & Digit Logic
 
